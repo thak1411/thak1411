@@ -6,19 +6,11 @@
 
 * Gunmo Ku (a.k.a. Rn, thak, Morgan)
 * Hanyang University, Department of Computer Sofrware Engineering
-* ~~[more info](https://thak1411.github.io/about)~~
-
-## Cards
-
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=thak1411&theme=calm)](https://github.com/thak1411)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thak1411&layout=compact&langs_count=8&theme=dracula)](https://github.com/thak1411)
-
-[![thak00's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thak00)](https://solved.ac/profile/thak00)
+* [more info](https://thak1411.github.io/about)
 
 ## Blog
 
-* ~~[Rn Blog](https://thak1411.github.io)~~
+* [Rn Blog](https://thak1411.github.io)
 
 ## Online Judge
 
@@ -33,3 +25,12 @@
 * Backend (With Golang)
 * Cloud (With AWS)
 * Infrastructure (With Docker, Kubernetes)
+
+
+## Cards
+
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=thak1411&theme=calm)](https://github.com/thak1411)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thak1411&layout=compact&langs_count=8&theme=dracula)](https://github.com/thak1411)
+
+[![thak00's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thak00)](https://solved.ac/profile/thak00)
